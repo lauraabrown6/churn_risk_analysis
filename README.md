@@ -8,7 +8,7 @@ The original data source: [original_data_citation](https://github.com/lauraabrow
 The original dataset file: [customer_data.csv](https://github.com/lauraabrown6/churn_risk_analysis/blob/49177d49e789dc741d32720663e1d59e1bb1539e/customer_data.csv)
   - csv file downloaded from the original data source with no changes made
 
-Case study overview: [case_study_churn_risk_analysis.docx](https://github.com/lauraabrown6/churn_risk_analysis/blob/49177d49e789dc741d32720663e1d59e1bb1539e/case_study_churn_risk_analysis.docx)
+Case study overview: [churn_risk_analysis_case_study.docx](https://github.com/lauraabrown6/churn_risk_analysis/blob/d3d4f3ab822f434ff19c382731181bf1971b164c/churn_risk_analysis_case_study.docx)
   - document of the case study process with guiding questions, key tasks and deliverables checklist
 
 Cleaning & Validation: [churn_rate_cleaning.ipynb](https://github.com/lauraabrown6/churn_risk_analysis/blob/49177d49e789dc741d32720663e1d59e1bb1539e/churn_rate_cleaning.ipynb)
@@ -26,5 +26,5 @@ Unused analysis tests: [churn_unused_test_analysis.ipynb](https://github.com/lau
 Tableau visualisations: [tableau_story](https://github.com/lauraabrown6/churn_risk_analysis/blob/49177d49e789dc741d32720663e1d59e1bb1539e/tableau_story)
   - link to the tableau story that shows the graphs and dashboards created that show the key insights and findings of the analysis
 
-Final Presentation: [churn_prevention_presentation.pptx](https://github.com/lauraabrown6/churn_risk_analysis/blob/49177d49e789dc741d32720663e1d59e1bb1539e/churn_prevention_presentation.pptx)
+Final Presentation: [churn_prevention_presentation.pptx](https://github.com/lauraabrown6/churn_risk_analysis/blob/048bd4def4cf9237c61d3efb41c1eab99078244e/churn_prevention_presentation.pptx)
   - powerpoint presentation, with an overview of the case study (including the objectives, process and key findings), the dasboards, the key findings and final recomendations and conclusions.
