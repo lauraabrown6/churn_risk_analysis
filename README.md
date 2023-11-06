@@ -1,14 +1,16 @@
 # Churn Risk Analysis
-In this case study I have used customer data to calculate churn rate, segmented the accounts and run an analysis to identify accounts that are at risk of churn.
+In this case study I have used customer data to calculate churn rate, segmented the accounts, and run an analysis to identify accounts that are at risk of churn. 
+
+The purpose is to identify high churn risk accounts, to be targeted in a proactive retention plan which should help reduce voluntary churn.
 
 ## Analysis steps and files
 1. CSV downloaded from the original data source with no changes made
 
    [customer_data.csv](https://github.com/lauraabrown6/churn_risk_analysis/blob/49177d49e789dc741d32720663e1d59e1bb1539e/customer_data.csv)
 
-3. Documentation of the case study process with guiding questions, key tasks and a deliverables checklist
+3. Documentation of the project process with guiding questions, key tasks, and a deliverables checklist
 
-   [churn_risk_analysis_case_study.docx](https://github.com/lauraabrown6/churn_risk_analysis/blob/d3d4f3ab822f434ff19c382731181bf1971b164c/churn_risk_analysis_case_study.docx)
+   [project_guide.pdf](https://github.com/lauraabrown6/churn_risk_analysis/blob/0033b83070fc7d0ab275f7686444538950d0e1ca/project_guide.pdf)
 
 4. Notebook of the SQL Big Query used to clean and validate the data
 
@@ -30,10 +32,11 @@ In this case study I have used customer data to calculate churn rate, segmented 
 
    [tableau_story](https://github.com/lauraabrown6/churn_risk_analysis/blob/49177d49e789dc741d32720663e1d59e1bb1539e/tableau_story)
 
-9. Powerpoint presentation, with an overview of the case study (including the objectives, process and key findings), the dasboards, the key findings and final recomendations and conclusions.
+9. Powerpoint presentation, with an overview of the case study (including the objectives, process, and key findings), the dashboards, the key findings, and final recommendations and conclusions
 
    [churn_prevention_presentation.pptx](https://github.com/lauraabrown6/churn_risk_analysis/blob/048bd4def4cf9237c61d3efb41c1eab99078244e/churn_prevention_presentation.pptx)
 
 ### Source
-The original data source: [original_data_citation](https://github.com/lauraabrown6/churn_risk_analysis/blob/49177d49e789dc741d32720663e1d59e1bb1539e/original_data_citation)
-  - Citation of the original data source
+[Original data source](https://kaggle.com/competitions/customer-churn-prediction-2020)
+
+[Citation of the original data source](https://github.com/lauraabrown6/churn_risk_analysis/blob/49177d49e789dc741d32720663e1d59e1bb1539e/original_data_citation)
